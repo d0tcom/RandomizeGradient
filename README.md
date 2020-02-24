@@ -1,5 +1,5 @@
 # :rainbow: RandomizeGradient
-RandomizeGradient is a HTML, CSS and Javascript (vanilla) website that allows you to generate a gradient of two totally random colors.
+[RandomizeGradient](https://github.com/d0tcom/RandomizeGradient/issues) is a HTML, CSS and Javascript (vanilla) website that allows you to generate a gradient of two totally random colors.
 
 ## Features
 ### Done
