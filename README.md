@@ -11,6 +11,7 @@
 
 ### Features ideas
 - [ ] Choose the number of colors in the gradient (maximum 5)
+- [ ] Add a new gradient when we scroll down in the top menu
 - [ ] Rotate the gradient
 - [ ] Filter the gradients by color (red, blue, green, yellow etc.)
 
