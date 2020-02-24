@@ -15,5 +15,7 @@
 - [ ] Rotate the gradient
 - [ ] Filter the gradients by color (red, blue, green, yellow etc.)
 
+:bulb: [Add a new feature idea.](https://github.com/d0tcom/RandomizeGradient/issues)
+
 ## Idea, feature request, bug?
 You have an idea for a new feature? You found a bug? Please go [here](https://github.com/d0tcom/RandomizeGradient/issues) to submit a new issue.
