@@ -2,6 +2,7 @@
 RandomizeGradient is a HTML, CSS and Javascript (vanilla) website that allows you to generate a gradient of two totally random colors.
 
 ## Features
+- [x] Mobile responsive (this was designed for mobile first)
 - [x] Randomize gradient! button
 - [x] Copy / Paste feature of the two colors
 - [x] Top menu with a list of different gradients (randomly generated too)
