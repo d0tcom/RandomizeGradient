@@ -21,7 +21,7 @@
 C'est ici : [here](https://github.com/d0tcom/RandomizeGradient/issues)
 
 
-# :rainbow: RandomizeGradient (ENG. README)
+# RandomizeGradient (ENG. README)
 [RandomizeGradient](https://d0tcom.github.io/RandomizeGradient/) is a HTML, CSS and Javascript (vanilla) website that allows you to generate a gradient of two totally random colors.
 
 ## Features
