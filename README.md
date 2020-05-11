@@ -1,4 +1,27 @@
 # :rainbow: RandomizeGradient
+[RandomizeGradient](https://d0tcom.github.io/RandomizeGradient/) est un site fait en HTML, CSS et Javascript (vanilla) qui vous permet de générer un dégradé de deux couleurs totalement aléatoires.
+
+## Fonctionnalités
+### Fait
+- [x] Mobile responsive (conçu pour smartphone principalement)
+- [x] Bouton Randomize gradient!
+- [x] Fonction qui permet de copier / coller les deux codes couleurs
+- [x] Menu en haut qui affiche une liste de dégradés générés aléatoirements
+- [x] Fenêtre modale qui affiche le code CSS pour le dégradé séléctionné.
+
+### Idées à implémenter
+- [ ] Choisir le nombre de couleurs dans le dégradé. (Maximum 5)
+- [ ] Ajouter un nouveau dégradé quand on fait défiler vers le bas le menu du haut
+- [ ] Possibilité de faire une rotation du dégradé
+- [ ] Filtrer les dégradés par couleur (rouge, bleu, vert, jaune etc.)
+
+:bulb: [Ajouter une feature.](https://github.com/d0tcom/RandomizeGradient/issues)
+
+## Idée, idée de feature, bug?
+C'est ici : [here](https://github.com/d0tcom/RandomizeGradient/issues)
+
+
+# :rainbow: RandomizeGradient (ENG. README)
 [RandomizeGradient](https://d0tcom.github.io/RandomizeGradient/) is a HTML, CSS and Javascript (vanilla) website that allows you to generate a gradient of two totally random colors.
 
 ## Features
